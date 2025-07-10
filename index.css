@@ -43,7 +43,7 @@
 }
 
 
-/* nav bar style */
+/* banner nav bar style */
 
 .nav_bar{
     display: flex;
@@ -54,7 +54,7 @@
     margin: 0px 150px;
     
 }
-/* nav left side */
+/* banner nav left side */
 
 .nav-logo{
     font-size: 34px;
@@ -65,7 +65,7 @@
     margin: 50px 0px;
 }
 
-/* banner heading part */
+/* banner title part */
 
 .heading{
     display: flex;
