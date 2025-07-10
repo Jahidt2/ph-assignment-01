@@ -3,3 +3,45 @@
     padding: 0px;
 }
 
+/* google font */
+.inter-normal {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.raleway-primary {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+/* shared style */
+.btn-primary{
+    background-color: #4E47FF;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 12px 36px;
+    border-radius: 5px;
+    border-style: none;
+    color: #FFFFFF;
+}
+
+
+/* nav style */
+
+.nav_bar{
+    display: flex;
+    max-width: 1140px;
+    max-height: 151px;
+    justify-content: space-between;
+    align-items: center;
+    margin: 50px 150px;
+    
+}
+/* nav left side */
+.nav-logo{
+    font-size: 34px;
+    font-weight: bold;
+    color: #4E47FF;
+    font-weight: 900;
+}
