@@ -32,6 +32,11 @@ main{
     color: #FFFFFF;
     cursor: pointer
 }
+.btn-primary:hover{
+    background-color: rgba(231, 9, 9, 0.553);
+    transition: 0.5s ;
+    transform: scale(1.05);
+}
 
 /* main{
     max-width: 1140px;
