@@ -202,3 +202,18 @@ main{
 .focus_better img{
     border-radius: 48px;
 }
+
+/* News latter style */
+
+.newslatter{
+    display: flex;
+    align-items: center;
+    margin: 92.23px 150px 14px 150px;
+    padding: 71px 0px;
+    gap: 115px;
+}
+.newslatter p{
+    font-size: 97px;
+    font-weight: bold;
+    color: #000000;
+}
