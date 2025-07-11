@@ -86,3 +86,47 @@
     color: #252432;
     
 }
+
+/* action style */
+
+.action{
+    display: flex;
+    align-items: center;
+    /* gap: 40px; */
+    margin: 116px 159px 116px 141px;
+    max-height: 328px;
+    
+}
+
+/* acton style left side */
+
+.action_left{
+    max-width: 517px;
+    max-height: 203px;
+    margin-right: 220px;
+}
+.action_left h1{
+    font-size: 42px;
+    font-weight: bold;
+    margin-bottom: 23px;
+    color: #252432;
+}
+.action_left p{
+    font-weight: 400;
+    font-size: 24px;
+    margin-bottom: 23px;
+    color: #252432;
+    opacity: 50%;
+}
+
+/* action style right side */
+
+.action_right{
+
+}
+
+.action_right_image{
+    width: 403px;
+    height: 100%;
+    border-radius: 48px;
+}
