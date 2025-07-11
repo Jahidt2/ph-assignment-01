@@ -16,6 +16,9 @@
   font-optical-sizing: auto;
   font-style: normal;
 }
+main{
+    background-color: #F5F8FF;
+}
 
 /* shared style */
 
@@ -98,8 +101,9 @@
     display: flex;
     align-items: center;
     gap: 80px;
-    margin: 116px 160px 116px 141px;
+    margin: 0px 160px 116px 141px;
     max-height: 328px;
+    padding-top: 116px;
     
 }
 
@@ -173,3 +177,28 @@
     color: #737380;
 }
 
+/* focus better section style */
+
+.focus_better{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #FFFFFF;
+    margin: 137px 149px 0px 151px;
+    padding: 71px 150px;
+    gap: 20px;
+    border-radius: 14px;
+}
+.focus_better h2{
+    font-size: 50px;
+    font-weight: bold;
+    color: #000000;
+}
+.focus_better p{
+    font-size: 16px;
+    font-weight: normal;
+    color: #808080;
+} 
+.focus_better img{
+    border-radius: 48px;
+}
