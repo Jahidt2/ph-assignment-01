@@ -110,8 +110,8 @@ main{
 /* acton style left side */
 
 .action_left{
-    max-width: 517px;
-    max-height: 203px;
+    /* max-width: 517px;
+    max-height: 203px; */
     margin-right: 220px;
 }
 .action_left h1{
@@ -132,7 +132,7 @@ main{
 
 .action_right_image{
     width: 403px;
-    height: 100%;
+    /* height: 100%; */
     border-radius: 48px;
 }
 
@@ -287,4 +287,5 @@ footer li a{
     text-decoration: none;
     color: #8987A1;
     font-size: 15px;
+    font-style: inter !important;
 }
